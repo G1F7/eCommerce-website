@@ -18,3 +18,6 @@ Is an online-store project that is designed to help contribute to a bargaining s
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/56926136/184540967-69e558a2-bc2e-481c-a1ca-add36fa4c0c8.png)
 ##This is the product page where your able to order and checkout. 
+
+![Screenshot (15)](https://user-images.githubusercontent.com/56926136/184541344-d5a425bb-6115-4b26-bac1-f4898d2865cf.png)
+##Last page will be the cart page where you checkout for the products once done.
