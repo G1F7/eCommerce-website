@@ -11,4 +11,10 @@ Is an online-store project that is designed to help contribute to a bargaining s
  
 3. Download Jquery
  * Visit [Jquery](https://www.jquery.com), and download a *CDN* zip or you could copy the link and paste it on your *IDE*. 
+ 
+#After Installation
+![Screenshot (13)](https://user-images.githubusercontent.com/56926136/184540888-2878c98b-8e3a-45b7-88d1-c27acb1da315.png)
+##Landing page will be displayed.
 
+![Screenshot (14)](https://user-images.githubusercontent.com/56926136/184540967-69e558a2-bc2e-481c-a1ca-add36fa4c0c8.png)
+##This is the product page where your able to order and checkout. 
